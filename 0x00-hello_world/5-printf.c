@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-/*
+/**
  *main-block code
  *return 0
 */
