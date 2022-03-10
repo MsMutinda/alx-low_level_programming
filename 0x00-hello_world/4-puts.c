@@ -5,10 +5,12 @@
 #include<stdio.h>
 
 /*
- * main - Main function returning the value0
+ *main - main block of code
+ *Main function returning the value zero
  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
+
 	return (0);
 }
