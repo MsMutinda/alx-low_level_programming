@@ -1,7 +1,11 @@
+/**
+ * print size of different types
+*/
+
 #include<stdio.h>
 
 /**
- * Main code function
+ * main -  code function
  * Return: 0, on success
 */
 int main(void)
