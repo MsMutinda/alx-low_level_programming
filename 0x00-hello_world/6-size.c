@@ -1,7 +1,11 @@
+/*
+ *print the size of various types using c
+ */
 #include<stdio.h>
 
 /**
  * Main code function
+ * Return: 0
 */
 int main(void)
 {
