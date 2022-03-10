@@ -5,8 +5,8 @@
 #include<stdio.h>
 
 /**
- * main -  code function
- * Return: 0, on success
+ * main - prints different types on the computer
+ * Return: 0 if successfull
 */
 int main(void)
 {
