@@ -1,3 +1,7 @@
+/*
+ * Puts func in place of printf
+*/
+
 #include<stdio.h>
 
 int main()
