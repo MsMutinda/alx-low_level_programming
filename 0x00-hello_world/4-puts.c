@@ -5,7 +5,7 @@
 #include<stdio.h>
 
 /*
- * Main function returning the value0
+ * main - Main function returning the value0
  */
 int main(void)
 {
