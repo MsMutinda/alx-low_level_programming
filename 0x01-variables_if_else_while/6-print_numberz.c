@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - block code
  *
@@ -13,6 +14,5 @@ int main(void)
 		putchar(num);
 	}
 	putchar('\n');
-	
 	return (0);
 }
