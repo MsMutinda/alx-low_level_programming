@@ -1,5 +1,5 @@
 /**
-*assign random value to a number then check if the number is positive/zero/negative
+*assign random value then check if positive/zero/negative
 */
 #include <stdio.h>
 #include <time.h>
@@ -7,7 +7,7 @@
 
 /**
  *main - code block function
- *Return: 0 alway
+ *Return: 0 always
 */
 int main(void)
 {
