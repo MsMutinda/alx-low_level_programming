@@ -1,14 +1,14 @@
-/** 
- * code to assign random value to a number then check if the number is positive/zero/negativee 
- */
+/**
+*assign random value to a number then check if the number is positive/zero/negative
+*/
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
 
 /**
- *main code block function
- *Return: 0 always
- */
+ *main - code block function
+ *Return: 0 alway
+*/
 int main(void)
 {
 	int n;
