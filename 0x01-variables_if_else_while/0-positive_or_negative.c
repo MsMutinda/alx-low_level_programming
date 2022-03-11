@@ -1,12 +1,14 @@
-#include <stdlib.h>
-#include <time.h>
+/**
+*assign random value then check if positive/zero/negative
+*/
 #include <stdio.h>
-/* more headers goes there */
+#include <time.h>
+#include <stdlib.h>
 
 /**
- *main code block function
+ *main - code block function
  *Return: 0 always
- */
+*/
 int main(void)
 {
 	int n;
