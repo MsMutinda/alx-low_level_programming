@@ -1,9 +1,9 @@
-#include <stdlib.h>
-#include <time.h>
-#include <stdio.h>
 /** 
  * code to assign random value to a number then check if the number is positive/zero/negativee 
  */
+#include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
 
 /**
  *main code block function
