@@ -3,11 +3,11 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/*
+/**
  *main code block function
-Return: 0 always
+ *Return: 0 always
  */
-int main(void)
+int main (void)
 {
 	int n;
 
