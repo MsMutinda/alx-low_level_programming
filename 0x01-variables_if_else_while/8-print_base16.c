@@ -1,13 +1,11 @@
 /*
  * Using putchar function to display hexadecimal
- */
-
+*/
 #include <stdio.h>
-
 /**
  * main - block code
  * Return: 0.
- */
+*/
 int main(void)
 {
 	int base;
