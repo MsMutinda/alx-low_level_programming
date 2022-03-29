@@ -17,7 +17,7 @@ while (*needle)
 {
 if (*haystack++ != *needle++)
 {
-    break;
+break;
 }
 }
 if (!*needle)
